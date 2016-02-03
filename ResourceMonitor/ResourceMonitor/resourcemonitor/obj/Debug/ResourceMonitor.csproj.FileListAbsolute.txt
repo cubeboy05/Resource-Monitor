@@ -1,0 +1,40 @@
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe.config
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.pdb
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.csprojResolveAssemblyReference.cache
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\MainWindow.baml
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\MainWindow.g.cs
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\App.g.cs
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor_MarkupCompile.cache
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.g.resources
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.Properties.Resources.resources
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.csproj.GenerateResource.Cache
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.exe
+c:\users\karthik\documents\visual studio 2013\Projects\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.pdb
+C:\Users\Karthik\Documents\Visual Studio 2013\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+C:\Users\Karthik\Documents\Visual Studio 2013\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\WPFToolkit.dll
+C:\Users\Karthik\Documents\Visual Studio 2013\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+C:\Users\Karthik\Documents\Visual Studio 2013\Projects\ResourceMonitor\ResourceMonitor\bin\Debug\WPFToolkit.pdb
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe.config
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.exe
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.pdb
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.pdb
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\WPFToolkit.dll
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\bin\Debug\WPFToolkit.pdb
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\MainWindow.baml
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\App.g.cs
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor_MarkupCompile.cache
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.g.resources
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.Properties.Resources.resources
+C:\Users\Karthik\Desktop\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.csproj.GenerateResource.Cache
+C:\Users\Karthik\Downloads\ResourceMonitor\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe.config
+C:\Users\Karthik\Downloads\ResourceMonitor\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.exe
+C:\Users\Karthik\Downloads\ResourceMonitor\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.pdb
+C:\Users\Karthik\Dropbox\ResourceMonitorFINAL\ResourceMonitor\ResourceMonitor\bin\Debug\ResourceMonitor.exe.config
+C:\Users\Karthik\Dropbox\ResourceMonitorFINAL\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.exe
+C:\Users\Karthik\Dropbox\ResourceMonitorFINAL\ResourceMonitor\ResourceMonitor\obj\Debug\ResourceMonitor.pdb
